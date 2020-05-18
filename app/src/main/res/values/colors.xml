@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#079E0D</color>
+    <color name="colorPrimaryDark">#023A04</color>
+    <color name="colorAccent">#9A9F9F</color>
+
+    //Custom Colors
+    <color name="colorActionButton">#66CCFA</color>
+    <color name="colorEqualButton">#F44F87</color>
+    <color name="colorNumberActionButton">#1B1C22</color>
+    <color name="colorNumberActionMathButton">#E6B930</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+</resources>
